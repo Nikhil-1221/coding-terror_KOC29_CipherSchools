@@ -3,7 +3,7 @@ You have to build a dictionary (Or any other container of your choice) which con
 Every participant/user will attempt 5 rounds and in each round random quiz questions will be displayed to the user/participant.
 If the participant answers the quiz question correct, then congratulate him and add the scores.
 At the end display the details and score of the participant.
-(Student is free to decide the input and output layout for this mini project)
+(Student is free to decide the input and output layout for this mini project.)
 '''
 
 print(" ***  *   * ***** *******    ******   ***  *     * *****")
